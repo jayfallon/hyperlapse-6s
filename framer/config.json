@@ -1,0 +1,26 @@
+{
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceOrientation" : 0,
+  "sharedPrototype" : 1,
+  "contentScale" : 1,
+  "deviceType" : "apple-iphone-6s-gold",
+  "selectedHand" : "",
+  "updateDelay" : 0.3,
+  "deviceScale" : "fit",
+  "foldedCodeRanges" : [
+    "{0, 236}",
+    "{237, 156}",
+    "{394, 283}",
+    "{678, 186}",
+    "{865, 1239}",
+    "{2105, 556}",
+    "{2662, 555}",
+    "{3218, 720}",
+    "{3939, 1638}",
+    "{5578, 700}"
+  ],
+  "orientation" : 0,
+  "fullScreen" : false
+}
